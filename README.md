@@ -43,8 +43,6 @@ Self-taught my way through C before college even started. Currently building pro
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight)
-
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight)
 
