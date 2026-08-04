@@ -39,6 +39,21 @@ Self-taught my way through C before college even started. Currently building pro
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+
+
+![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight)
+
+
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight)
+
+
+
+
 
 
 ## 📫 Connect
