@@ -42,9 +42,14 @@ Self-taught my way through C before college even started. Currently building pro
 ## 📊 GitHub Stats
 
 
+![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight)
+
+
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight)
+
 
 
 
