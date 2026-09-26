@@ -2,89 +2,10 @@
 
 # Hey, I'm Subham 👋
 
-🎓 BCA student at ITER Bhubaneswar (SOA University) — since September 2026
-📍 Cuttack, Odisha
+### BCA Student • Java & DSA Learner • Building One Step at a Time
 
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Self-taught+in+C+before+college;Now+learning+Java+%E2%98%95;Building+toward+DSA+%2B+Data+Science)
-
-
-
-</div>
-
----
-
-### 🚀 What I'm doing
-
-Self-taught my way through C before college even started — pointers, arrays, strings, structures, file I/O, and dynamic memory allocation, with projects pushed along the way. Now learning Java, building toward DSA, Web Dev, SQL, Python, and eventually Data Science/ML.
-
-- 🎯 **Currently learning:** Java (fundamentals, OOP)
-- 🌱 **Long-term goal:** Land a strong tech placement after BCA, then pursue an MTech via BITS Pilani WILP (Data Science track)
-- 📚 **Learning path:** ~~C~~ → **Java** → DSA → Web Dev → SQL → Python → Data Science/ML
-- 🔥 Maintaining a daily coding streak — check the graph below
-- 📅 [Full 2026–2029 roadmap →](./ROADMAP.md)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamkar-codes&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-<img src="https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-### 📫 Connect
-
-<div align="center">
-
-- 💼 **LinkedIn:**
-- 📸 **Instagram:** [@subham.web](https://www.instagram.com/subham.web)
+🎓 **BCA Student at SOA University (ITER), Bhubaneswar** — since September 2026  
+📍 Odisha, India
 
 </div>
 
@@ -92,6 +13,151 @@ Self-taught my way through C before college even started — pointers, arrays, s
 
 <div align="center">
 
-⭐ From a self-taught beginner to (hopefully) a Data Scientist — one commit at a time.
+### 🚀 Self-taught in C before college
+
+</div>
+
+---
+
+## 🚀 What I'm Doing
+
+I started programming before college with **C**, working through
+fundamentals like pointers, arrays, strings, structures, file I/O,
+dynamic memory allocation, and small projects.
+
+Now I'm continuing that journey through my BCA while building stronger
+foundations in **Java, Data Structures & Algorithms, SQL, Python,
+Git/GitHub, and software development**.
+
+I prefer understanding **why something works** rather than simply
+memorizing how to write it.
+
+### 🎯 Current Focus
+
+- ☕ **Currently learning:** Java — fundamentals & OOP
+- 🧠 **Next:** Data Structures & Algorithms
+- 🐙 **Ongoing:** Git & GitHub
+- 📚 **Academic goal:** Maintain a strong BCA CGPA
+- 🛠️ **Building:** Practical projects alongside learning
+- 🎯 **Long-term:** Build strong technical skills → internships →
+  industry experience → explore WILP/M.Tech opportunities
+
+### 🛣️ Learning Path
+
+**C → Java → DSA → Web Development → SQL → Python → Data Science/ML**
+
+The path will evolve as I learn, build, and discover the areas I enjoy
+working in the most.
+
+### 📅 Full 2026–2029 Roadmap
+
+➡️ **[View my full BCA Master Roadmap →](./ROADMAP.md)**
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Learning Progress
+
+| Technology / Area | Status |
+|---|---|
+| C | ✅ Completed |
+| Java | 🔥 In Progress |
+| Git & GitHub | 🔄 Ongoing |
+| DSA | ⏳ Starting Soon |
+| SQL | 📌 Planned |
+| Python | 📌 Planned |
+| Web Development | 📌 Planned |
+| Data Science / ML | 🔭 Long-Term |
+
+---
+
+## 🛠️ Projects
+
+I build projects alongside what I learn instead of waiting until I
+"know everything."
+
+The goal is to gradually move from:
+
+**Small Programs → Practical Applications → Larger Projects**
+
+### 📌 Planned Project Journey
+
+- ☕ **Student Management System** — Java
+- 💰 **Personal Expense Tracker** — Java + File Handling
+- 🧠 **DSA Visualizer / Algorithm Playground**
+- 🚌 **College Bus / Attendance Management System**
+- 💻 **Placement Preparation Platform**
+- 📊 **Data Analytics Dashboard**
+- 🤖 **Data / Machine Learning Projects**
+
+Projects will evolve as my skills grow.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 📈 My Progress
+
+I don't want this profile to be a list of technologies I barely know.
+
+Instead, I want it to document the actual journey:
+
+**Learn → Build → Break → Debug → Understand → Improve**
+
+Every project and commit is another step forward.
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+📸 **Instagram:** [@subham.web](https://www.instagram.com/subham.web/)
+
+</div>
+
+---
+
+## 🌱 Philosophy
+
+> **Not trying to be better than everyone else.  
+> Just trying to be better than yesterday.**
+
+---
+
+<div align="center">
+
+⭐ From a self-taught beginner to wherever this journey takes me.
+
+### **One step at a time. One commit at a time. 💻🔥**
 
 </div>
