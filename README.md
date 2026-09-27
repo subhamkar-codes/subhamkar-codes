@@ -44,7 +44,7 @@ memorizing how to write it.
 
 ### 🛣️ Learning Path
 
-**C → Java → DSA → Web Development → SQL → Python → Data Science/ML**
+**C → Java → DSA → C++ → Web Development → SQL → Python → Data Science/ML**
 
 The path will evolve as I learn, build, and discover the areas I enjoy
 working in the most.
@@ -83,6 +83,7 @@ working in the most.
 | Java | 🔥 In Progress |
 | Git & GitHub | 🔄 Ongoing |
 | DSA | ⏳ Starting Soon |
+| C++ | ⏳ Starting Soon |
 | SQL | 📌 Planned |
 | Python | 📌 Planned |
 | Web Development | 📌 Planned |
