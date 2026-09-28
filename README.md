@@ -113,14 +113,13 @@ The goal is to gradually move from:
 Projects will evolve as my skills grow.
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
