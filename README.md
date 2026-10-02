@@ -117,12 +117,11 @@ Projects will evolve as my skills grow.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true)
+![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamkar-codes&theme=tokyonight)
 
 </div>
-
 ---
 
 ## 📈 My Progress
