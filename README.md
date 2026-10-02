@@ -117,9 +117,9 @@ Projects will evolve as my skills grow.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhamkar-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<img src="https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true" width="48%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true)
 
 </div>
 
