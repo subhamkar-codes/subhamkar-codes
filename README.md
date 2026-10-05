@@ -82,7 +82,7 @@ working in the most.
 | C | ✅ Completed |
 | Java | 🔥 In Progress |
 | Git & GitHub | 🔄 Ongoing |
-| DSA | ⏳ Starting Soon |
+| DSA | 🔥 In Progress |
 | C++ | ⏳ Starting Soon |
 | SQL | 📌 Planned |
 | Python | 📌 Planned |
