@@ -44,7 +44,7 @@ working in the most.
 
 ### 📅 Full 2026–2029 Roadmap
 
-➡️ **[View my BCA Master Roadmap →](https://github.com/subhamkar-codes/REPLACE-WITH-ROADMAP-REPO-NAME)**
+➡️ **[View my BCA Master Roadmap →](ROADMAP.md)**
 
 ---
 
