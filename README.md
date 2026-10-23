@@ -54,7 +54,7 @@ I add a project here only when it's finished and documented.
 ## 🗺️ Roadmap
 
 My full plan for 2026–2029 is public:
-**[BCA Master Roadmap (Backend Track) →](https://github.com/subhamkar-codes/bca-roadmap-2026-2029)**
+**[BCA Master Roadmap (Backend Track) →](ROADMAP.md)**
 
 ## 🧰 Tech
 
