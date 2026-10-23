@@ -11,14 +11,6 @@
 
 ---
 
-<div align="center">
-
-### 🚀 Self-taught in C before college
-
-</div>
-
----
-
 ## 🚀 What I'm Doing
 
 I started programming before college with **C**, working through
@@ -35,23 +27,24 @@ memorizing how to write it.
 ### 🎯 Current Focus
 
 - ☕ **Currently learning:** Java — fundamentals & OOP
-- 🧠 **Next:** Data Structures & Algorithms
+- 🧠 **Alongside:** DSA foundations, HackerRank and CodeChef practice
 - 🐙 **Ongoing:** Git & GitHub
 - 📚 **Academic goal:** Maintain a strong BCA CGPA
-- 🛠️ **Building:** Practical projects alongside learning
+- 🛠️ **Next project:** Student Management System in Java (starting Dec 2026)
 - 🎯 **Long-term:** Build strong technical skills → internships →
   industry experience → explore WILP/M.Tech opportunities
 
 ### 🛣️ Learning Path
 
-**C → Java → DSA → C++ → Web Development → SQL → Python → Data Science/ML**
+**C → Java → DSA → SQL & Python → Web Development → Data Analytics → ML**
 
+C++ is an optional extra from mid-2027, once my coursework is stable.
 The path will evolve as I learn, build, and discover the areas I enjoy
 working in the most.
 
 ### 📅 Full 2026–2029 Roadmap
 
-➡️ **[View my full BCA Master Roadmap →](./ROADMAP.md)**
+➡️ **[View my BCA Master Roadmap →](https://github.com/subhamkar-codes/REPLACE-WITH-ROADMAP-REPO-NAME)**
 
 ---
 
@@ -60,15 +53,10 @@ working in the most.
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
@@ -82,12 +70,12 @@ working in the most.
 | C | ✅ Completed |
 | Java | 🔥 In Progress |
 | Git & GitHub | 🔄 Ongoing |
-| DSA | 🔥 In Progress |
-| C++ | ⏳ Starting Soon |
-| SQL | 📌 Planned |
-| Python | 📌 Planned |
-| Web Development | 📌 Planned |
-| Data Science / ML | 🔭 Long-Term |
+| DSA | 🔥 Foundations in progress |
+| SQL | 📌 Planned (Sem 3) |
+| Python | 📌 Planned (Sem 3) |
+| Web Development | 📌 Planned (Sem 3) |
+| C++ | 💤 Optional, from mid-2027 |
+| Data Analytics / ML | 🔭 Long-Term |
 
 ---
 
@@ -102,26 +90,30 @@ The goal is to gradually move from:
 
 ### 📌 Planned Project Journey
 
-- ☕ **Student Management System** — Java
-- 💰 **Personal Expense Tracker** — Java + File Handling
-- 🧠 **DSA Visualizer / Algorithm Playground**
-- 🚌 **College Bus / Attendance Management System**
-- 💻 **Placement Preparation Platform**
-- 📊 **Data Analytics Dashboard**
-- 🤖 **Data / Machine Learning Projects**
+1. ☕ **Student Management System** — Java (Dec 2026)
+2. 💰 **Personal Expense Tracker** — Java + file handling (Mar 2027)
+3. 🧠 **DSA Visualizer / Algorithm Playground** — Java (May–Jun 2027)
+4. 🚌 **College Bus / Attendance Management System** — Java + SQL + web (Nov 2027)
+5. 💻 **Placement Preparation Platform** (2028)
+6. 📊 **Data Analytics Dashboard** (2028)
+7. 🏫 **Smart College Analytics System** (2028)
+8. 🤖 **Recommendation / Prediction Project** (stretch goal, 2029)
+9. 🎓 **Final Year Research Project** (2029)
 
-Projects will evolve as my skills grow.
+Dates are targets and will change as my skills and workload do.
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhamkar-codes&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamkar-codes&theme=tokyonight)
 
 </div>
+
 ---
 
 ## 📈 My Progress
