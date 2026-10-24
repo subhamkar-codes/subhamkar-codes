@@ -83,7 +83,7 @@ I add a badge only after I've actually used the tool.
 
 ## 🔗 Connect
 
-📸 Instagram: [@subham.web]([https://www.instagram.com/subham.web/](https://www.instagram.com/subham.code?obrf=MWl1dGZzc2s2ZzNhbQ==))
+📸 Instagram: [@subham.web]([https://www.instagram.com/subham.web/](https://www.instagram.com/subham.code?obrf=MWl1dGZzc2s2ZzNhbQ==)](https://www.instagram.com/subham.code/))
 
 💼 [LinkedIn](https://www.linkedin.com/in/subham-kar-learns2007/)
 
