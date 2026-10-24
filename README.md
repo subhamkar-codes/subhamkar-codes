@@ -84,6 +84,7 @@ I add a badge only after I've actually used the tool.
 ## 🔗 Connect
 
 📸 Instagram: [@subham.web](https://www.instagram.com/subham.web/)
+💼 [LinkedIn](https://www.linkedin.com/in/subham-kar-learns2007/)
 
 ---
 
